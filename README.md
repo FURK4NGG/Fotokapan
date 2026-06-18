@@ -24,7 +24,7 @@
 
 ## 📦 Setup 
 1. `Refer to the 'circuit_fotokapan-programming.png' diagram`
-2. `Install the 'Arduino IDE' software and open 'fotokapan.ino' file`
+2. `Install the 'Arduino IDE' software and open 'fotokapan.ino' with 'camera_pins.h' file`
 3. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
 ```bash
