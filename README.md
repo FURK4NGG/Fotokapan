@@ -11,6 +11,7 @@
 <details>
 <summary>1. Components</summary>
 '1' ESP32-CAM<br>
+'1' Motion sensor (PIR Sensor Hc-Sr501)<br>
 '3' AA Batteries (1.5V each)<br>
 '1' MT3608 adjustable DC/DC voltage regulator (4.5V to 5.01V step-up)<br>
 '1' FT232RL USB to UART Converter<br>
