@@ -22,7 +22,7 @@
 
 
 ## 📦 Setup 
-1. `Refer to the 'fotokapan-programming.png' diagram`
+1. `Refer to the 'circuit_fotokapan-programming.png' diagram`
 2. `Install the 'Arduino IDE' software and open 'fotokapan.ino' file`
 3. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
