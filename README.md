@@ -58,11 +58,15 @@ https://dl.espressif.com/dl/package_esp32_index.json
 > ⚠️ **Advisory for Developers:** If you want to try this project in the future with new generation boards and you want to add new features like using 'DS1302 real time module', you must have 3 unused pins.
 
 ## 🎉 Run  
-1. `Refer to the 'circuit_fotokapan.png' diagram`  
-2. `Let the electricity pass through the switch`  
-3. `Press the reset button on the esp32cam`  
-4. `You are ready to use your mini camera`  
-> ⚠️ `After turning on the camera, wait 5 seconds before using it. Turn off the power before removing the SD card. When taking photos, leave at least a 2–3 second interval between shots. Do not cover the front of the flash to prevent a potential fire hazard.` 
+1. `Refer to the 'circuit_fotokapan.png' diagram`
+2. `Position your camera trap at an appropriate angle`
+3. `Let the electricity pass through the switch`
+4. `Press the reset button on the esp32cam`
+5. `You are ready to use your camera trap`
+
+> ❔ `If an SD card is installed, photos are stored automatically. To access the photos without removing the SD card, connect GPIO12 to GND before powering on the device. The ESP32-CAM will then start in Web Server Mode and create a local Wi-Fi network (Fotokapan / 12345678), allowing you to browse, download, or delete photos stored on the SD card from any phone or computer.`  
+
+> ⚠️ `After turning on the camera, wait 5 seconds before using it. Turn off the power before removing the SD card. Do not cover the front of the flash to prevent a potential fire hazard.` 
 
 
 ## 🔒 License  
